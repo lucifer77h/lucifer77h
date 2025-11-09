@@ -29,7 +29,7 @@
 ---
 
 ### 📫 Connect With Me
-- 📧 **Email:** your.email@example.com  
+- 📧 **Email:** hiteshkumarsingh7777@gmail.com
 - 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
 - 🐙 **GitHub:** [lucifer77h](https://github.com/lucifer77h)
 
