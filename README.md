@@ -14,7 +14,7 @@
 ---
 
 ### 🧩 Tech Stack
-- **Languages:** C, C++, Dart, Java  
+- **Languages:**  C++, Dart, Kotlin
 - **Frameworks:** Flutter  
 - **Databases:** Firebase, MongoDB (learning)  
 - **Tools:** Git, GitHub, Android Studio, VS Code  
@@ -23,14 +23,14 @@
 
 ### 🏆 Hackathon Experience
 - 💥 Participated in **IIT Jammu Hackathon** and secured second runner up position 
-- 💼 Competed in **Punjab & Sind Bank Hackathon 2025**
+- 💼 Competed in **Punjab & Sind Bank Hackathon 2025** and were in top 30 teams 
 - 🌟 Building projects that combine **tech + creativity**
 
 ---
 
 ### 📫 Connect With Me
 - 📧 **Email:** hiteshkumarsingh7777@gmail.com
-- 💼 **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- 💼 **LinkedIn:** [Hitesh Singh]((https://www.linkedin.com/in/hitesh-singh-46b611355/))  
 - 🐙 **GitHub:** [lucifer77h](https://github.com/lucifer77h)
 
 ---
