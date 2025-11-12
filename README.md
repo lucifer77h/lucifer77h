@@ -30,7 +30,7 @@
 
 ### 📫 Connect With Me
 - 📧 **Email:** hiteshkumarsingh7777@gmail.com
-- 💼 **LinkedIn:** [Hitesh Singh]((https://www.linkedin.com/in/hitesh-singh-46b611355/))  
+- 💼 **LinkedIn:** [Hitesh Singh](https://www.linkedin.com/in/hitesh-singh-46b611355/)
 - 🐙 **GitHub:** [lucifer77h](https://github.com/lucifer77h)
 
 ---
