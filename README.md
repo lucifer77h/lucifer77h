@@ -14,8 +14,9 @@
 ---
 
 ### 🧩 Tech Stack
-- **Languages:**  C++, Dart, Kotlin
-- **Frameworks:** Flutter  
+- **Languages:**  C++, Dart, Kotlin ,javascript(learning)
+- **Frameworks:** Flutter ,  Express.js
+-**Backend:** Node.js
 - **Databases:** Firebase, MongoDB (learning)  
 - **Tools:** Git, GitHub, Android Studio, VS Code  
 
