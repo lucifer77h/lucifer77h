@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Currently pursuing **B.Tech in Computer Science Engineering**
+- 🎓 Currently pursuing **B.Tech in Computer Science Engineering** (2nd year at I.K.Gujral punjab technical university main campus , kapurthala)
 - 📱 Learning **App Development (Flutter + Firebase)**
 - 💡 Interested in **Cybersecurity**, **AI**, and **Innovative Software Projects**
 - 🧠 Exploring new ideas through **hackathons & internships**
