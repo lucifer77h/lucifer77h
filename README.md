@@ -14,15 +14,16 @@
 ---
 
 ### 🧩 Tech Stack
-- **Languages:**  C++, Dart, Kotlin ,javascript(learning)
-- **Frameworks:** Flutter ,  Express.js
--**Backend:** Node.js
+- **Languages:**  C++, Dart, Kotlin ,Python(learning)
+- **Frameworks:** Flutter , 
+-**Backend:** fastapi
 - **Databases:** Firebase, MongoDB (learning)  
 - **Tools:** Git, GitHub, Android Studio, VS Code  
 
 ---
 
 ### 🏆 Hackathon Experience
+- 🧩 SIH 2025 national finalist
 - 💥 Participated in **IIT Jammu Hackathon** and secured second runner up position 
 - 💼 Competed in **Punjab & Sind Bank Hackathon 2025** and were in top 30 teams 
 - 🌟 Building projects that combine **tech + creativity**
