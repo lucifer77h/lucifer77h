@@ -1,4 +1,4 @@
-# 👋 Hey there! I’m Hitesh singh
+# 👋 Hey there! I’m Hitesh Kumar singh
 
 💻 **Computer Science Engineering Student | Flutter Developer | Hackathon Enthusiast** |Team leader -Team Ur4nium
 
