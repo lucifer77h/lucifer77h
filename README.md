@@ -10,13 +10,13 @@
 ## 🧠 About Me
 
 ```yaml
-name: Hitesh Kumar Singh
-location: Jalandhar, Punjab, India
-education: B.Tech CSE @ I.K. Gujral Punjab Technical University (2024–Present)
-team: Team Ur4nium | Team Leader
-currently_learning: [FastAPI, PostgreSQL, On-device AI, App Security]
-interests: [Mobile Development, Cybersecurity, Applied AI, Real-time Systems]
-fun_fact: Watches anime while debugging 🎌
+Name: Hitesh Kumar Singh
+Location: Jalandhar, Punjab, India
+Education: B.Tech CSE @ I.K. Gujral Punjab Technical University (2024–Present)
+Team: Team Ur4nium | Team Leader
+Currently_learning: [FastAPI, PostgreSQL, On-device AI, App Security]
+Interests: [Mobile Development, Cybersecurity, Applied AI, Real-time Systems]
+Fun_fact: Watches anime while debugging 🎌
 ```
 
 ---
@@ -49,11 +49,11 @@ fun_fact: Watches anime while debugging 🎌
 
 ## 📊 GitHub Stats
 
-![Hitesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucifer77h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Hitesh's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=lucifer77h&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer77h&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucifer77h&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=lucifer77h&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucifer77h&theme=tokyonight&hide_border=true)
 
 ---
 
