@@ -53,7 +53,7 @@ Fun_fact: Watches anime while debugging 🎌
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucifer77h&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucifer77h&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=lucifer77h&theme=tokyonight&hide_border=true&timezone=Asia%2FKolkata)
 
 ---
 
